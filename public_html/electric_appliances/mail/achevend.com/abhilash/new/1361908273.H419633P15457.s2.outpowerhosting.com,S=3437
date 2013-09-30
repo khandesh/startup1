@@ -1,0 +1,73 @@
+Return-path: <abhithebestchandra+gmcfva21b1d27280d6f28@gmail.com>
+Envelope-to: abhilash@achevend.com
+Delivery-date: Wed, 27 Feb 2013 01:21:13 +0530
+Received: from mail-ve0-f180.google.com ([209.85.128.180]:54592)
+	by s2.outpowerhosting.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.80)
+	(envelope-from <abhithebestchandra+gmcfva21b1d27280d6f28@gmail.com>)
+	id 1UAQYQ-00041B-TB
+	for abhilash@achevend.com; Wed, 27 Feb 2013 01:21:11 +0530
+Received: by mail-ve0-f180.google.com with SMTP id jx10so4219347veb.11
+        for <abhilash@achevend.com>; Tue, 26 Feb 2013 11:51:10 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:x-received:x-google-address-confirmation:date
+         :message-id:subject:from:to:content-type;
+        bh=X61BboEj4rBPsNim4wHQfw5VlUpldVMoYn0xAuNrit0=;
+        b=pBECLoA30lZl0Ulzz7BBMwyIVv7wQe8bObHDWgXhEQeHpQVMR228B3mD8MmeWYPYwH
+         FySn0mScGPmoGEzYGe1ElnWnvzKwTun/lEcsPEe0pNdqAUCNaK/DTIPJHv1gHhqt+HF4
+         Vy91gspwezwsaq869s9qJocUah8hPLZqr1eOkAp+RlYcPPuTYrC3lgj8KnXcmHPrGSM8
+         9pYPUXgWx/YfTo4CRz2XYNJUaq3wopV14KmyLCXXLeAK0S+CEqQzTRDXEbWjTvV7V86X
+         h0c5PnwaN17+ZsnyIoWujJkidUoU2PO8LtN5zNGJTtx2Z11P8r8NqJEdKxap/z9E9Ve0
+         +lTg==
+MIME-Version: 1.0
+X-Received: by 10.52.34.239 with SMTP id c15mr10704158vdj.25.1361908270532;
+ Tue, 26 Feb 2013 11:51:10 -0800 (PST)
+X-Google-Address-Confirmation: XCKta2TuuKkB6_9AtTNU90L4MzU
+Date: Wed, 27 Feb 2013 01:21:10 +0530
+Message-ID: <CAKCNuKGwmG29LAf+jUwF4FmLbuq=hMcVAhhESKSe5EfPPC6Yng@mail.gmail.com>
+Subject: Gmail Confirmation - Send Mail as abhilash@achevend.com
+From: Gmail Team <mail-noreply@google.com>
+To: abhilash@achevend.com
+Content-Type: text/plain; charset=ISO-8859-1
+
+You have requested to add abhilash@achevend.com to your Gmail account.
+Confirmation code: 23002352
+
+Before you can send mail from abhilash@achevend.com using your Gmail
+account (abhithebestchandra@gmail.com), please click the link below to
+confirm your
+request:
+
+https://mail.google.com/mail/f-5037b040bf-abhilash%40achevend.com-Jlk6AMbd3MZ2H_xgwh2r35jeGrM
+
+If you click the link and it appears to be broken, please copy and paste it
+into a new browser window. If you aren't able to access the link, please log in
+to your Gmail account, and click 'Settings' at the top of any page.
+Open the 'Accounts' tab, and locate the email address you'd like to add in the
+'Send mail as:' section. Then, click 'Verify,' and enter your confirmation
+code: 23002352
+
+Thanks for using Gmail!
+
+Sincerely,
+
+The Gmail Team
+
+If you did not make this request, or you don't want to add this email address
+to your Gmail account, no further action is required.
+abhithebestchandra@gmail.com cannot send messages using your email
+address unless you
+confirm the request by clicking the link above. If you accidentally clicked
+the link, but you do not want to allow abhithebestchandra@gmail.com to
+send messages
+using your address, click this link to cancel this verification:
+https://mail.google.com/mail/g-5037b040bf-abhilash%40achevend.com-Jlk6AMbd3MZ2H_xgwh2r35jeGrM
+
+To learn more about why you might have received this message, please
+visit: http://support.google.com/mail/bin/answer.py?answer=184973.
+
+Please do not respond to this message. If you'd like to contact the
+Gmail Team, please log in to your account and click 'Help' at
+the top of any page. Then, click 'Contact Us' along the bottom of the
+Help Center.

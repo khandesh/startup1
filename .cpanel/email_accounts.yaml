@@ -1,0 +1,40 @@
+--- 
+__version: '2.1'
+achevend.com: 
+  account_count: 8
+  accounts: 
+    abhilash: 
+      disk_mtime: '1361936680'
+      diskquota: 0
+      diskused: 6874
+    contact_us: 
+      disk_mtime: '1361936680'
+      diskquota: 0
+      diskused: 32925
+    devesh: 
+      disk_mtime: '1361936680'
+      diskquota: 0
+      diskused: 3395
+    khandesh: 
+      disk_mtime: '1361936680'
+      diskquota: 0
+      diskused: 560530
+    mahesh: 
+      disk_mtime: '1361936680'
+      diskquota: 0
+      diskused: 0
+    rajat: 
+      disk_mtime: '1361936680'
+      diskquota: 0
+      diskused: 0
+    ssai: 
+      disk_mtime: '1361936680'
+      diskquota: 0
+      diskused: 0
+    vishwas: 
+      disk_mtime: '1361936680'
+      diskquota: 0
+      diskused: 0
+  disk_mtime: '1361936680'
+  passwd_mtime: '1361936680'
+  quota_mtime: '1361936680'

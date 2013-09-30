@@ -1,0 +1,73 @@
+Return-path: <negotiumfreelancers+gmcfv42c07d11dd61483e@gmail.com>
+Envelope-to: contact_us@achevend.com
+Delivery-date: Wed, 27 Feb 2013 18:52:58 +0530
+Received: from mail-pa0-f67.google.com ([209.85.220.67]:63631)
+	by s2.outpowerhosting.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.80)
+	(envelope-from <negotiumfreelancers+gmcfv42c07d11dd61483e@gmail.com>)
+	id 1UAgyH-0006fw-SB
+	for contact_us@achevend.com; Wed, 27 Feb 2013 18:52:57 +0530
+Received: by mail-pa0-f67.google.com with SMTP id bh2so435173pad.10
+        for <contact_us@achevend.com>; Wed, 27 Feb 2013 05:22:55 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:x-received:x-google-address-confirmation:date
+         :message-id:subject:from:to:content-type;
+        bh=QgK0r3hDjJirzwLcUiQmQ2zz/3Rp4PWhqIZlypG5R8o=;
+        b=B7znuZicI0jvv9jKKNpSNlJAqb/SBOalqIv7mp/NvX9iZ6541FSdF7MQ9Qqn1SvoKI
+         dH2crg/G/BAW6kbFOYHAhPK5f7Kaf3XF1JpHnguRpPpmN2pXem66/n6ZfkRbeRHIAmfl
+         OzNo0FYqiaRExMjWerm3KDLdJEx1SO0jd2RJd6D1/3zRB8959MiqQJGDQNB3PXYQBjn2
+         EvQ3aSsqo8xXUXHKDknpLrSfo6cJyA7VAOcm6pK9Xt9ACR+Nxq/iluCeHkwF0ecO+UH9
+         GvvTkzlrkmEkET/Gb0UawJKSsiax5BX7A4N/TGgE8qPfr1T9N5YmDjwyb6thRrMPrsMy
+         NgpA==
+MIME-Version: 1.0
+X-Received: by 10.66.234.65 with SMTP id uc1mr7513555pac.87.1361971375755;
+ Wed, 27 Feb 2013 05:22:55 -0800 (PST)
+X-Google-Address-Confirmation: ZtTkViFk1xsdh_G-QV8is10J5RI
+Date: Wed, 27 Feb 2013 18:52:55 +0530
+Message-ID: <CADzhRr6PVp66QxbJ6S1FUFUW8nzqriF=idWdHtzOhucNQb8Zpg@mail.gmail.com>
+Subject: Gmail Confirmation - Send Mail as contact_us@achevend.com
+From: Gmail Team <mail-noreply@google.com>
+To: contact_us@achevend.com
+Content-Type: text/plain; charset=ISO-8859-1
+
+You have requested to add contact_us@achevend.com to your Gmail account.
+Confirmation code: 71159151
+
+Before you can send mail from contact_us@achevend.com using your Gmail
+account (negotiumfreelancers@gmail.com), please click the link below
+to confirm your
+request:
+
+https://mail.google.com/mail/f-3677610fec-contact_us%40achevend.com-WRGa27wD4Osh6g3miVKdy5HuU7A
+
+If you click the link and it appears to be broken, please copy and paste it
+into a new browser window. If you aren't able to access the link, please log in
+to your Gmail account, and click 'Settings' at the top of any page.
+Open the 'Accounts' tab, and locate the email address you'd like to add in the
+'Send mail as:' section. Then, click 'Verify,' and enter your confirmation
+code: 71159151
+
+Thanks for using Gmail!
+
+Sincerely,
+
+The Gmail Team
+
+If you did not make this request, or you don't want to add this email address
+to your Gmail account, no further action is required.
+negotiumfreelancers@gmail.com cannot send messages using your email
+address unless you
+confirm the request by clicking the link above. If you accidentally clicked
+the link, but you do not want to allow negotiumfreelancers@gmail.com
+to send messages
+using your address, click this link to cancel this verification:
+https://mail.google.com/mail/g-3677610fec-contact_us%40achevend.com-WRGa27wD4Osh6g3miVKdy5HuU7A
+
+To learn more about why you might have received this message, please
+visit: http://support.google.com/mail/bin/answer.py?answer=184973.
+
+Please do not respond to this message. If you'd like to contact the
+Gmail Team, please log in to your account and click 'Help' at
+the top of any page. Then, click 'Contact Us' along the bottom of the
+Help Center.

@@ -1,0 +1,63 @@
+[25-Feb-2013 22:19:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/achevelw/public_html/index.php:3) in /home/achevelw/public_html/index.php on line 5
+[25-Feb-2013 22:22:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/achevelw/public_html/index.php:3) in /home/achevelw/public_html/index.php on line 5
+[25-Feb-2013 22:22:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/achevelw/public_html/index.php:3) in /home/achevelw/public_html/index.php on line 5
+[25-Feb-2013 22:22:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/achevelw/public_html/index.php:3) in /home/achevelw/public_html/index.php on line 5
+[26-Feb-2013 03:44:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/achevelw/public_html/index.php:3) in /home/achevelw/public_html/index.php on line 5
+[26-Feb-2013 04:31:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/achevelw/public_html/index.php:3) in /home/achevelw/public_html/index.php on line 5
+[26-Feb-2013 04:46:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/achevelw/public_html/index.php:3) in /home/achevelw/public_html/index.php on line 5
+[26-Feb-2013 04:59:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/achevelw/public_html/index.php:3) in /home/achevelw/public_html/index.php on line 5
+[26-Feb-2013 07:04:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/achevelw/public_html/index.php:3) in /home/achevelw/public_html/index.php on line 5
+[26-Feb-2013 07:10:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/achevelw/public_html/index.php:3) in /home/achevelw/public_html/index.php on line 5
+[26-Feb-2013 07:10:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/achevelw/public_html/index.php:3) in /home/achevelw/public_html/index.php on line 5
+[26-Feb-2013 07:11:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/achevelw/public_html/index.php:3) in /home/achevelw/public_html/index.php on line 5
+[26-Feb-2013 08:00:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/achevelw/public_html/index.php:3) in /home/achevelw/public_html/index.php on line 5
+[26-Feb-2013 08:01:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/achevelw/public_html/index.php:3) in /home/achevelw/public_html/index.php on line 5
+[26-Feb-2013 08:11:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/achevelw/public_html/index.php:3) in /home/achevelw/public_html/index.php on line 5
+[26-Feb-2013 08:22:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/achevelw/public_html/index.php:3) in /home/achevelw/public_html/index.php on line 5
+[26-Feb-2013 10:33:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/achevelw/public_html/index.php:3) in /home/achevelw/public_html/index.php on line 5
+[26-Feb-2013 11:19:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/achevelw/public_html/index.php:3) in /home/achevelw/public_html/index.php on line 5
+[26-Feb-2013 11:19:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/achevelw/public_html/index.php:3) in /home/achevelw/public_html/index.php on line 5
+[26-Feb-2013 12:42:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/achevelw/public_html/index.php:3) in /home/achevelw/public_html/index.php on line 5
+[26-Feb-2013 13:05:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/achevelw/public_html/index.php:3) in /home/achevelw/public_html/index.php on line 5
+[26-Feb-2013 18:49:33 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/imagick.so' - libgs.so.8: cannot map zero-fill pages: Cannot allocate memory in Unknown on line 0
+[26-Feb-2013 18:49:33 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/imagick.so' - libgs.so.8: cannot map zero-fill pages: Cannot allocate memory in Unknown on line 0
+[26-Feb-2013 22:10:30 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4864 bytes) in /home/achevelw/public_html/menu.php on line 81
+[26-Feb-2013 22:10:35 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4864 bytes) in /home/achevelw/public_html/menu.php on line 81
+[26-Feb-2013 22:10:54 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4864 bytes) in /home/achevelw/public_html/menu.php on line 81
+[26-Feb-2013 22:11:00 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4864 bytes) in /home/achevelw/public_html/menu.php on line 81
+[27-Feb-2013 13:30:48 UTC] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/achevelw/public_html/sell_form_action.php on line 62
+[27-Feb-2013 13:31:35 UTC] PHP Fatal error:  Call to a member function addAttachment() on a non-object in /home/achevelw/public_html/sell_form_action.php on line 62
+[27-Feb-2013 13:32:56 UTC] PHP Fatal error:  Call to a member function addAttachment() on a non-object in /home/achevelw/public_html/sell_form_action.php on line 61
+[27-Feb-2013 13:39:56 UTC] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/achevelw/public_html/sell_form_action.php on line 39
+[27-Feb-2013 13:39:56 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/achevelw/public_html/sell_form_action.php on line 40
+[27-Feb-2013 13:54:32 UTC] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/achevelw/public_html/sell_form_action.php on line 66
+[27-Feb-2013 13:55:12 UTC] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/achevelw/public_html/sell_form_action.php on line 66
+[27-Feb-2013 13:55:20 UTC] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/achevelw/public_html/sell_form_action.php on line 66
+[27-Feb-2013 13:55:30 UTC] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/achevelw/public_html/sell_form_action.php on line 66
+[27-Feb-2013 13:58:46 UTC] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/achevelw/public_html/sell_form_action.php on line 66
+[27-Feb-2013 13:59:33 UTC] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/achevelw/public_html/sell_form_action.php on line 66
+[27-Feb-2013 13:59:54 UTC] PHP Warning:  fread() expects parameter 1 to be resource, null given in /home/achevelw/public_html/sell_form_action.php on line 37
+[27-Feb-2013 14:35:33 UTC] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Unable to access /tmp/phpPvzCFd in /home/achevelw/public_html/sell_form_action.php on line 77
+[27-Feb-2013 14:35:33 UTC] PHP Warning:  file_get_contents(/tmp/phpPvzCFd) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/achevelw/public_html/sell_form_action.php on line 77
+[27-Feb-2013 14:45:43 UTC] PHP Parse error:  syntax error, unexpected '(' in /home/achevelw/public_html/sell_form_action.php on line 111
+[27-Feb-2013 14:47:02 UTC] PHP Parse error:  syntax error, unexpected '(' in /home/achevelw/public_html/sell_form_action.php on line 108
+[27-Feb-2013 14:47:28 UTC] PHP Parse error:  syntax error, unexpected '(' in /home/achevelw/public_html/sell_form_action.php on line 108
+[27-Feb-2013 14:49:31 UTC] PHP Parse error:  syntax error, unexpected '(' in /home/achevelw/public_html/sell_form_action.php on line 114
+[27-Feb-2013 14:53:23 UTC] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Unable to access /tmp/php5AoLkI in /home/achevelw/public_html/sell_form_action.php on line 80
+[27-Feb-2013 14:53:23 UTC] PHP Warning:  file_get_contents(/tmp/php5AoLkI) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/achevelw/public_html/sell_form_action.php on line 80
+[27-Feb-2013 15:00:26 UTC] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Unable to access /tmp/phpP4ZFw1 in /home/achevelw/public_html/sell_form_action.php on line 80
+[27-Feb-2013 15:00:26 UTC] PHP Warning:  file_get_contents(/tmp/phpP4ZFw1) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/achevelw/public_html/sell_form_action.php on line 80
+[27-Feb-2013 15:06:49 UTC] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Unable to access /tmp/phpDxnGFQ in /home/achevelw/public_html/sell_form_action.php on line 80
+[27-Feb-2013 15:06:49 UTC] PHP Warning:  file_get_contents(/tmp/phpDxnGFQ) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: No such file or directory in /home/achevelw/public_html/sell_form_action.php on line 80
+[27-Feb-2013 15:38:52 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/achevelw/public_html/purchase_form_action.php on line 26
+[27-Feb-2013 15:39:22 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/achevelw/public_html/purchase_form_action.php on line 26
+[27-Feb-2013 15:40:37 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/achevelw/public_html/purchase_form_action.php on line 25
+[27-Feb-2013 15:42:29 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/achevelw/public_html/sell_form_action.php on line 24
+[27-Feb-2013 15:44:22 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/achevelw/public_html/purchase_form_action.php on line 25
+[27-Feb-2013 15:45:00 UTC] PHP Parse error:  syntax error, unexpected T_STRING in /home/achevelw/public_html/purchase_form_action.php on line 26
+[27-Feb-2013 15:46:20 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/achevelw/public_html/purchase_form_action.php on line 25
+[27-Feb-2013 15:48:58 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/achevelw/public_html/purchase_form_action.php on line 26
+[27-Feb-2013 15:49:27 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/achevelw/public_html/purchase_form_action.php on line 25
+[27-Feb-2013 16:45:49 UTC] PHP Parse error:  syntax error, unexpected '!' in /home/achevelw/public_html/sell_form_action.php on line 23
+[27-Feb-2013 16:53:00 UTC] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: SAFE MODE Restriction in effect.  The script whose uid is 712 is not allowed to access / owned by uid 0 in /home/achevelw/public_html/sell_form_action.php on line 72
+[27-Feb-2013 17:10:17 UTC] PHP Parse error:  syntax error, unexpected '.', expecting ')' in /home/achevelw/public_html/sell_form_action.php on line 111

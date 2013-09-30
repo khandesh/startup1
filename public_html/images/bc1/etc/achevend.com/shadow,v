@@ -1,0 +1,129 @@
+head	1.8;
+access;
+symbols;
+locks
+	achevelw:1.8; strict;
+comment	@# @;
+
+
+1.8
+date	2013.02.25.13.02.30;	author achevelw;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	2013.02.24.20.01.20;	author achevelw;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2013.02.24.20.00.50;	author achevelw;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2013.02.24.20.00.14;	author achevelw;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2013.02.24.20.00.01;	author achevelw;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2013.02.24.19.58.57;	author achevelw;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2013.02.23.10.05.50;	author achevelw;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2013.02.23.10.05.50;	author achevelw;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.8
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@khandesh:$1$pmZzU5a7$msZntrXHzznwUVSrPS6jy0:15759::::::
+abhilash:$1$Xme5ZakA$q8YFpxsng74n3gtXzvBal0:15760::::::
+devesh:$1$iRn8CuMt$/Lkctg02RM3w4KI/VC460/:15760::::::
+mahesh:$1$Zgw0VYfQ$yY4rMXFDioZgac/0l.9FL0:15760::::::
+ssai:$1$xT1dbMR9$Ivgv.88M.9E7FWFkqal.v.:15760::::::
+vishwas:$1$RjCW9ANC$dyYWT0.1bykkG89RHVYha.:15760::::::
+contact_us:$1$GFNErE0y$kQ90s/bYoJrEB6Bp.YYPX/:15761::::::
+@
+
+
+1.7
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d7 1
+@
+
+
+1.6
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d6 1
+@
+
+
+1.5
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d5 1
+@
+
+
+1.4
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d4 1
+@
+
+
+1.3
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d3 1
+@
+
+
+1.2
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d2 1
+@
+
+
+1.1
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d1 1
+@

@@ -1,0 +1,129 @@
+head	1.8;
+access;
+symbols;
+locks
+	achevelw:1.8; strict;
+comment	@# @;
+
+
+1.8
+date	2013.02.25.13.02.30;	author achevelw;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	2013.02.24.20.01.20;	author achevelw;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	2013.02.24.20.00.50;	author achevelw;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	2013.02.24.20.00.14;	author achevelw;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2013.02.24.20.00.01;	author achevelw;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2013.02.24.19.58.57;	author achevelw;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2013.02.23.10.05.50;	author achevelw;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2013.02.23.10.05.50;	author achevelw;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.8
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@khandesh:x:712:709::/home/achevelw/mail/achevend.com/mail/achevend.com/khandesh:/home/achevelw
+abhilash:x:712:709::/home/achevelw/mail/achevend.com/mail/achevend.com/abhilash:/home/achevelw
+devesh:x:712:709::/home/achevelw/mail/achevend.com/mail/achevend.com/devesh:/home/achevelw
+mahesh:x:712:709::/home/achevelw/mail/achevend.com/mail/achevend.com/mahesh:/home/achevelw
+ssai:x:712:709::/home/achevelw/mail/achevend.com/mail/achevend.com/ssai:/home/achevelw
+vishwas:x:712:709::/home/achevelw/mail/achevend.com/mail/achevend.com/vishwas:/home/achevelw
+contact_us:x:712:709::/home/achevelw/mail/achevend.com/mail/achevend.com/contact_us:/home/achevelw
+@
+
+
+1.7
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d7 1
+@
+
+
+1.6
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d6 1
+@
+
+
+1.5
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d5 1
+@
+
+
+1.4
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d4 1
+@
+
+
+1.3
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d3 1
+@
+
+
+1.2
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d2 1
+@
+
+
+1.1
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d1 1
+@

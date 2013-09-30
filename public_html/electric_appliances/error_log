@@ -1,0 +1,5 @@
+[27-Feb-2013 11:06:55 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Unable to access ../lamp.php in /home/achevelw/public_html/electric_appliances/index.php on line 10
+[27-Feb-2013 11:06:55 UTC] PHP Warning:  include(../lamp.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/achevelw/public_html/electric_appliances/index.php on line 10
+[27-Feb-2013 11:06:55 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Unable to access ../lamp.php in /home/achevelw/public_html/electric_appliances/index.php on line 10
+[27-Feb-2013 11:06:55 UTC] PHP Warning:  include(../lamp.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/achevelw/public_html/electric_appliances/index.php on line 10
+[27-Feb-2013 11:06:55 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../lamp.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/achevelw/public_html/electric_appliances/index.php on line 10
